@@ -14,6 +14,8 @@ An AI-Powered Sudoku Solver that leverages advanced algorithms to solve Sudoku p
 
 ### Demo
 ![Sudoku Solver Input](input1.png)
+![Sudoku Solver Input](input2.png)
+![Sudoku Solver Input](input3.png)
 
 ### How It Works
 - Input Handling: Users input the unsolved Sudoku puzzle through the UI.
