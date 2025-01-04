@@ -11,3 +11,10 @@ An AI-Powered Sudoku Solver that leverages advanced algorithms to solve Sudoku p
 ### Technologies Used
 - Frontend: HTML, CSS, JavaScript
 - AI Techniques: Constraint satisfaction and backtracking algorithm
+
+### Demo
+
+### How It Works
+- Input Handling: Users input the unsolved Sudoku puzzle through the UI.
+- AI Algorithm: The backtracking algorithm, combined with constraint satisfaction techniques, processes the puzzle.
+- Solution Display: The solved Sudoku grid is displayed in real-time.
