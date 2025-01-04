@@ -18,3 +18,9 @@ An AI-Powered Sudoku Solver that leverages advanced algorithms to solve Sudoku p
 - Input Handling: Users input the unsolved Sudoku puzzle through the UI.
 - AI Algorithm: The backtracking algorithm, combined with constraint satisfaction techniques, processes the puzzle.
 - Solution Display: The solved Sudoku grid is displayed in real-time.
+
+### Future Enhancements
+- Adding a Sudoku Generator to create random puzzles of varying difficulty.
+- Implementing alternative solving algorithms, such as dancing links.
+- Adding support for mobile and tablet users with a responsive design.
+- Enhancing the UI with animations for each solving step.
