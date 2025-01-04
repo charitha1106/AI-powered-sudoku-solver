@@ -13,7 +13,7 @@ An AI-Powered Sudoku Solver that leverages advanced algorithms to solve Sudoku p
 - AI Techniques: Constraint satisfaction and backtracking algorithm
 
 ### Demo
-![Sudoku Solver Input](Screenshot 2025-01-04 225400.png)
+![image1](Screenshot 2025-01-04 225400.png)
 
 ### How It Works
 - Input Handling: Users input the unsolved Sudoku puzzle through the UI.
